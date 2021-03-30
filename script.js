@@ -1,21 +1,3 @@
-/*
-1. computerPlay function
-- Random number * 3 - will determine rock, paper or scissors using random number
-Run if else function returning: <1 rock, <2 paper, <3 scissors
-
-2. Play the round using a function playRound:
-Two parameters: playerSelection and computerSelection
-playerSelection is prompt for rock, paper or scissors (case insensitive)
-Send back if not correct
-computerSelection is computerPlay
-Run if-else function 
-
-3. game() plays 5 in a row 
-playRound 
-use if-else to add to new variables computerScore and playerScore
-console.log the outcome 
-*/
-
 // Define player and computer scores
 let playerScore = 0
 let computerScore = 0
